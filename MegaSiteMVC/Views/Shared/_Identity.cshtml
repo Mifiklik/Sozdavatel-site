@@ -1,0 +1,49 @@
+﻿@inject UserManager<ApplicationUser> UserManager;
+
+<ul class="header__items">
+    @if (!User.Identity.IsAuthenticated)
+    {
+        <li class="header__item">
+            <a asp-controller="Account" asp-action="Login">
+                <img class="header__item" src="~/images/LogIn.png">
+            </a>
+        </li>
+        <li class="header__item">
+            <a asp-controller="Account" asp-action="Register">
+                <img class="header__item" src="~/images/Register.png">
+            </a>
+        </li>
+    }
+    else
+    {
+        @if (User.IsInRole("Admin"))
+        {
+            <li class="header__item">
+                <a asp-controller="Account" asp-action="Users">
+                    <img class="header__item" src="~/images/Users.png">
+                </a>
+            </li>
+        }
+
+        <li class="header__item">
+            <a asp-controller="Orders" asp-action="ShoppingCart">
+                <img class="header__item" src="~/images/cart.png">
+            </a>
+        </li>
+
+        
+
+
+        <li class="header__item">
+            <a asp-controller="Orders" asp-action="Index">
+                <img class="header__item" src="/images/Profile.png" alt="ICON">
+            </a>
+        </li>
+
+        <li class="header__item">
+            <a asp-controller="Account" asp-action="Logout">
+                <img class="header__item" src="~/images/LogOut.png">
+            </a>
+        </li>
+    }
+</ul>

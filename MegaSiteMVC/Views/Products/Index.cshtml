@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Product>
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<div class="products">
+    @foreach (var product in Model)
+    {
+        <div class="product">
+            <a asp-controller="Products" asp-action="Details" asp-route-id="@product.Id">
+                <img class="product__image" src="@product.ImageURL" alt="@product.Name">
+            </a>
+            <h3 class="product__name">@product.Name</h3>
+            <a class="black__button" asp-controller="Orders" asp-action="AddItemToShoppingCart" asp-route-id="@product.Id">
+                Add to cart (@product.Price.ToString("c"))
+            </a>
+            @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+            {
+                <a class="black__button" asp-controller="Products" asp-action="Edit" asp-route-id="@product.Id">Edit</a>
+                <a class="black__button" asp-controller="Products" asp-action="Delete" asp-route-id="@product.Id">Delete</a>
+            }
+        </div>
+    }
+</div>
+
+@if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+{
+    <div class="text-white" style="position:fixed; right:25px; bottom:85px;">
+        <a asp-controller="Products" asp-action="Create" class="btn btn-success"><i class="bi bi-plus-circle"></i> Add NEW</a>
+    </div>
+}
