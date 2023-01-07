@@ -47,17 +47,16 @@
 </div>
 
 @section Scripts
-{
-    <script>
-        $(document).ready(function ()
-        {
-            let output = document.getElementById('ImagePreview');
-            output.src = $("#ImageURL").val();
-        })
+    {
+        <script>
+            $(document).ready(function () {
+                let output = document.getElementById('ImagePreview');
+                output.src = $("#ImageURL").val();
+            })
 
-        $("#ImageURL").on("change", function() {
-            let output = document.getElementById('ImagePreview');
-            output.src = $(this).val();
-        })
-    </script>
-}
+            $("#ImageURL").on("change", function () {
+                let output = document.getElementById('ImagePreview');
+                output.src = $(this).val();
+            })
+        </script>
+    }

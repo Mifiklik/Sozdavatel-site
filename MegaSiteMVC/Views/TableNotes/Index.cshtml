@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Table notes";
+}
+
+@if (!User.Identity.IsAuthenticated)
+{
+    <h1 style="color: orangered; text-align:center;">Notes can only be saved by an authorized user!</h1>
+}
+
+<div class="tools">
+    @if (User.Identity.IsAuthenticated)
+    {
+        <button onclick="SaveTable()" class="black__button tool" id="saveTableButton">Save notes</button>
+    }
+
+    <button onclick="TryCreateTable()" class="black__button tool" id="createTableButton">Creat table</button>
+    <button onclick="AddRow()" class="black__button tool" id="addRowButton">Add row</button>
+    <button onclick="RemoveRow()" class="black__button tool" id="removeRowButton">Remove row №</button>
+    <input class="number__input tool" type="text" name="lineIndex" id="lineIndex">
+
+
+</div>
+
+@Html.Partial("LoadedTableNotes");
+@*<div id="tableContainer">
+    Здесь будет таблица
+</div>*@
+<input type="hidden" name="SavedNotes" />
+<br />
+
+@section Scripts
+    {
+    <script src="/js/tableNotes.js"></script>
+    <script type="text/javascript" src="https://ajax.cdnjs.com/ajax/libs/json2/20110223/json2.js"></script>
+    }

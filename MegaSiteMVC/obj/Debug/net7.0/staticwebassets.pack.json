@@ -1,355 +1,355 @@
 {
   "Files": [
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MegaSiteMVC.bundle.scp.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MegaSiteMVC.bundle.scp.css",
       "PackagePath": "staticwebassets\\MegaSiteMVC.bundle.scp.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\css\\dark.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\css\\dark.css",
       "PackagePath": "staticwebassets\\css\\dark.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\css\\light.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\css\\light.css",
       "PackagePath": "staticwebassets\\css\\light.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\css\\main.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\css\\main.css",
       "PackagePath": "staticwebassets\\css\\main.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\css\\nav bar.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\css\\nav bar.css",
       "PackagePath": "staticwebassets\\css\\nav bar.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\css\\site.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\favicon.ico",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\AP-050.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\AP-050.png",
       "PackagePath": "staticwebassets\\images\\AP-050.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\AP-051.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\AP-051.png",
       "PackagePath": "staticwebassets\\images\\AP-051.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\Cleaner.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\Cleaner.png",
       "PackagePath": "staticwebassets\\images\\Cleaner.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\Crusher.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\Crusher.png",
       "PackagePath": "staticwebassets\\images\\Crusher.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\EMI_Axe.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\EMI_Axe.png",
       "PackagePath": "staticwebassets\\images\\EMI_Axe.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\EMI_grenade.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\EMI_grenade.png",
       "PackagePath": "staticwebassets\\images\\EMI_grenade.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\Frenk.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\Frenk.png",
       "PackagePath": "staticwebassets\\images\\Frenk.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\Hous.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\Hous.png",
       "PackagePath": "staticwebassets\\images\\Hous.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\Icarus.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\Icarus.png",
       "PackagePath": "staticwebassets\\images\\Icarus.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\LogIn.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\LogIn.png",
       "PackagePath": "staticwebassets\\images\\LogIn.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\LogOut.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\LogOut.png",
       "PackagePath": "staticwebassets\\images\\LogOut.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\Logo.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\Logo.png",
       "PackagePath": "staticwebassets\\images\\Logo.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\Profile.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\Profile.png",
       "PackagePath": "staticwebassets\\images\\Profile.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\Register.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\Register.png",
       "PackagePath": "staticwebassets\\images\\Register.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\Users.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\Users.png",
       "PackagePath": "staticwebassets\\images\\Users.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\Wife.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\Wife.png",
       "PackagePath": "staticwebassets\\images\\Wife.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\Wife2.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\Wife2.png",
       "PackagePath": "staticwebassets\\images\\Wife2.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\cart.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\cart.png",
       "PackagePath": "staticwebassets\\images\\cart.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\likes.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\likes.png",
       "PackagePath": "staticwebassets\\images\\likes.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\loup.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\loup.png",
       "PackagePath": "staticwebassets\\images\\loup.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\search.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\search.png",
       "PackagePath": "staticwebassets\\images\\search.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\title_block_1.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\title_block_1.png",
       "PackagePath": "staticwebassets\\images\\title_block_1.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\images\\title_block_2.png",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\images\\title_block_2.png",
       "PackagePath": "staticwebassets\\images\\title_block_2.png"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\js\\tableNotes.js",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\js\\tableNotes.js",
       "PackagePath": "staticwebassets\\js\\tableNotes.js"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\MegaSiteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

@@ -1,20 +1,21 @@
-let tableWasCreated = false;
 let rowCount = 0;
 let lastNoteNumber = 0;
 let table;
+
+table = document.getElementById('tableNotes');
+let tableWasCreated = (table != null);
 
 const createTableButton = document.getElementById('createTableButton');
 const addRowButton = document.getElementById('addRowButton');
 const removeRowButton = document.getElementById('removeRowButton');
 const lineIndex = document.getElementById('lineIndex');
-createTableButton.disabled = false;
-addRowButton.disabled = true;
-removeRowButton.disabled = true;
 
-function TryCreateTable()
-{
-    if(tableWasCreated)
-    {
+createTableButton.disabled = tableWasCreated;
+addRowButton.disabled = !tableWasCreated;
+removeRowButton.disabled = !tableWasCreated;
+
+function TryCreateTable() {
+    if (tableWasCreated) {
         alert('Таблица уже создана');
         return;
     }
@@ -25,15 +26,15 @@ function TryCreateTable()
     document.body.appendChild(table);
     table.style.border = '1px solid black';
 
-    table.innerHTML = `<thead class="thead-dark">
-    <tr>
-      <th scope="col">№</th>
-      <th scope="col">Date</th>
-      <th scope="col" style="width:90%">Note</th>
-    </tr>
-  </thead>`;
+    table.innerHTML = 
+    `<tr>
+        <th scope="col">№</th>
+        <th scope="col">Id</th>
+        <th scope="col">Date</th>
+        <th scope="col" style="width:90%">Note</th>
+    </tr>`;
 
-  AddRow();
+    AddRow();
 
 
     tableWasCreated = true;
@@ -44,18 +45,20 @@ function TryCreateTable()
 
     const tableContainer = document.getElementById('tableContainer');
     if (tableContainer == null)
-        console.log("Error!");
+        console.log("Error! Table container not found");
     tableContainer.appendChild(table);
 }
 
-function AddRow()
-{
+function AddRow() {
     const tr = table.insertRow();
     let td = tr.insertCell();
     td.style.border = '1px solid black';
-    rowCount++;
-    td.textContent = ++lastNoteNumber;
+    td.textContent = ++rowCount;
     td.className = "numberCell";
+
+    td = tr.insertCell();
+    td.style.border = '1px solid black';
+    td.textContent = ++lastNoteNumber;
 
     td = tr.insertCell();
     td.style.border = '1px solid black';
@@ -70,26 +73,22 @@ function AddRow()
     td.appendChild(inputbox);
 }
 
-function RemoveRow()
-{
+function RemoveRow() {
     let index = lineIndex.value;
 
-    if(isNaN(index))
-    {
+    if (isNaN(index)) {
         alert("NaN");
         return;
     }
 
-    if(index.trim() === '')
-    {
+    if (index.trim() === '') {
         table.deleteRow(rowCount--);
-        if(rowCount === 0)
+        if (rowCount === 0)
             DropTable();
         return;
     }
 
-    if(index > rowCount || index < 1)
-    {
+    if (index > rowCount || index < 1) {
         alert("Line not found");
         return;
     }
@@ -97,25 +96,22 @@ function RemoveRow()
     table.deleteRow(index);
     rowCount--;
 
-    // Если первый столбик отвечает за порядковый номер, то обновляет числа
-    /*UpdateCells(index);*/
+    UpdateCellsIndex(index);
 
-    if(rowCount < 1)
+    if (rowCount < 1)
         DropTable();
 }
 
-function UpdateCells(startIndex)
-{
+function UpdateCellsIndex(startIndex) {
     let cells = document.querySelectorAll('.numberCell');
-    let i = startIndex;
-    cells.forEach(element => {
-        element.textContent = ++i;
-    });
+
+    for (let i = startIndex; i <= cells.length; i++) {
+        cells[i - 1].textContent = i;
+    }
 }
 
 
-function DropTable()
-{
+function DropTable() {
     tableWasCreated = false;
     addRowButton.disabled = true;
     removeRowButton.disabled = true;
@@ -126,5 +122,25 @@ function DropTable()
 function OnInput() {
     this.style.height = 'auto';
     this.style.height = (this.scrollHeight) + "px";
-  }
+}
+
+function SaveTable() {
+    let notes = new Array();
+
+    for (let i = 1; i < table.rows.length; i++) {
+
+        let row = table.rows[i];
+
+        let note = {};
+        note.Id = row.cells[1].innerHTML;
+        note.Date = row.cells[2].innerHTML;
+        note.NoteText = row.cells[3].innerHTML;
+
+        note.push(myEmployee);
+
+    }
+
+    document.getElementsByName("SavedNotes")[0].value = JSON.stringify(note);
+    return data;
+}
 
