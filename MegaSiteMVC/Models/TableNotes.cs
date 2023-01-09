@@ -9,6 +9,6 @@ namespace MegaSiteMVC.Models
 
         public string UserId { get; set; }
 
-        public string JsonNotes { get; set; }
+        public List<Note> Notes { get; set; }
     }
 }

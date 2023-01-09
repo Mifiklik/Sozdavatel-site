@@ -14,6 +14,19 @@ createTableButton.disabled = tableWasCreated;
 addRowButton.disabled = !tableWasCreated;
 removeRowButton.disabled = !tableWasCreated;
 
+Initializetion();
+
+function Initializetion() {
+    const tempData = document.getElementsByClassName('noteId');
+    if (tempData != null || tempData.length <= 0) {
+        rowCount = tempData.length;
+        lastNoteNumber = tempData[tempData.length - 1].value;
+        let textNotes = document.querySelectorAll('.noteText');
+        for (let i = 0; i < textNotes.length; i++)
+            textNotes[i].addEventListener("input", OnInput, false);
+    }
+}
+
 function TryCreateTable() {
     if (tableWasCreated) {
         alert('Таблица уже создана');
@@ -24,7 +37,6 @@ function TryCreateTable() {
     table.className = "tableNotes";
     table.id = "tableNotes";
     document.body.appendChild(table);
-    table.style.border = '1px solid black';
 
     table.innerHTML = 
     `<tr>
@@ -51,26 +63,43 @@ function TryCreateTable() {
 
 function AddRow() {
     const tr = table.insertRow();
+
     let td = tr.insertCell();
-    td.style.border = '1px solid black';
+    td.setAttribute("style", "border-bottom: solid 1px #C4C4C4;");
     td.textContent = ++rowCount;
-    td.className = "numberCell";
+    td.className = "numberCell mainCell";
 
     td = tr.insertCell();
-    td.style.border = '1px solid black';
-    td.textContent = ++lastNoteNumber;
+    td.className = "mainCell";
+
+    let formItem = document.createElement("input")
+    td.appendChild(formItem);
+    formItem.value = ++lastNoteNumber
+    SetAttributes(formItem, "Id", rowCount - 1);
+    formItem.disabled = true;
 
     td = tr.insertCell();
-    td.style.border = '1px solid black';
-    td.textContent = new Date().toLocaleDateString();
+    td.className = "mainCell";
+
+    formItem = document.createElement("input")
+    td.appendChild(formItem);
+    formItem.value = new Date().toLocaleDateString();
+    SetAttributes(formItem, "Date", rowCount-1);
+    formItem.disabled = true;
 
     td = tr.insertCell();
-    td.style.border = '1px solid black';
     let inputbox = document.createElement("textarea");
-    inputbox.className = "noteArea";
     inputbox.setAttribute("placeholder", "Type, paste, cut text here...");
     inputbox.addEventListener("input", OnInput, false);
+    SetAttributes(inputbox, "NoteText", rowCount-1);
+    inputbox.className = "noteText";
     td.appendChild(inputbox);
+}
+
+function SetAttributes(formItem, formItemType, index) {
+    formItem.setAttribute("id", "Notes_" + index + "__" + formItemType);
+    formItem.setAttribute("name", "Notes[" + index + "]." + formItemType);
+    formItem.className = "note" + formItemType;
 }
 
 function RemoveRow() {
@@ -96,17 +125,25 @@ function RemoveRow() {
     table.deleteRow(index);
     rowCount--;
 
-    UpdateCellsIndex(index);
+    UpdateCells(index);
 
     if (rowCount < 1)
         DropTable();
 }
 
-function UpdateCellsIndex(startIndex) {
-    let cells = document.querySelectorAll('.numberCell');
+function UpdateCells(startIndex) {
+    let indexCells = document.querySelectorAll('.numberCell');
+    // Нужно перенести эти обновления на момент сохранения таблицы
+    let idCells = document.querySelectorAll('.noteId');
+    let dateCells = document.querySelectorAll('.noteDate');
+    let textCells = document.querySelectorAll('.noteText');
 
-    for (let i = startIndex; i <= cells.length; i++) {
-        cells[i - 1].textContent = i;
+    for (let i = startIndex - 1; i < indexCells.length; i++) {
+        indexCells[i].textContent = i+1;
+        SetAttributes(idCells[i], "Id", i);
+        SetAttributes(dateCells[i], "Date", i);
+        SetAttributes(textCells[i], "NoteText", i);
+        textCells.className = "noteText";
     }
 }
 
@@ -115,32 +152,12 @@ function DropTable() {
     tableWasCreated = false;
     addRowButton.disabled = true;
     removeRowButton.disabled = true;
-
+    createTableButton.disabled = false;
     table.remove();
 }
 
 function OnInput() {
     this.style.height = 'auto';
     this.style.height = (this.scrollHeight) + "px";
-}
-
-function SaveTable() {
-    let notes = new Array();
-
-    for (let i = 1; i < table.rows.length; i++) {
-
-        let row = table.rows[i];
-
-        let note = {};
-        note.Id = row.cells[1].innerHTML;
-        note.Date = row.cells[2].innerHTML;
-        note.NoteText = row.cells[3].innerHTML;
-
-        note.push(myEmployee);
-
-    }
-
-    document.getElementsByName("SavedNotes")[0].value = JSON.stringify(note);
-    return data;
 }
 

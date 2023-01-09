@@ -275,11 +275,46 @@ footer {
     margin-bottom: 8em;
 }
 
-.noteArea {
+.headCell {
+    text-align: center;
+    border-bottom: solid 2px #4C4C4C;
+}
+
+.mainCell {
+    border-bottom: solid 1px #C4C4C4;
+}
+
+.noteText {
     width: 99%;
     outline: 0;
     resize: none;
     height: auto;
+    border: none;
+    background: #F8F8F8;
+}
+
+.numberCell,
+.noteId,
+.noteDate {
+    border: none;
+    background: #F8F8F8;
+    text-align: center;
+    appearance: none;
+    -moz-appearance: textfield;
+}
+
+.numberCell:disabled,
+.noteId:disabled,
+.noteDate:disabled {
+    color: #4C4C4C;
+}
+
+.noteId {
+    width: 3em;
+}
+
+.noteDate {
+    width: 7em;
 }
 
 @media (max-width: 992px) {

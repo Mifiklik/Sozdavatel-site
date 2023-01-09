@@ -11050,23 +11050,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rykov\\.nuget\\packages\\": {},
-    "D:\\Program\\VS Shared\\NuGetPackages": {}
+    "C:\\Users\\Professional\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\MegaSiteMVC.csproj",
+      "projectUniqueName": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\MegaSiteMVC.csproj",
       "projectName": "MegaSiteMVC",
-      "projectPath": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\MegaSiteMVC.csproj",
-      "packagesPath": "C:\\Users\\rykov\\.nuget\\packages\\",
-      "outputPath": "D:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\obj\\",
+      "projectPath": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\MegaSiteMVC.csproj",
+      "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
+      "outputPath": "E:\\Google Drive\\ITMO\\3 semester\\Web\\Лабы\\AspNet\\MegaSiteMVC\\Sozdavatel-site\\MegaSiteMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Program\\VS Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\rykov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

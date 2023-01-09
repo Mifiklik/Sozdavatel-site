@@ -1,26 +1,35 @@
 ﻿using MegaSiteMVC.Data;
+using MegaSiteMVC.Data.Services;
 using MegaSiteMVC.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
+using System.Collections.Generic;
 
 namespace MegaSiteMVC.Controllers
 {
     public class TableNotesController : Controller
     {
-        private readonly AppDbContext _context;
+        private readonly ITableNotesService _service;
 
-        // GET: TableNotesController
-        public ActionResult Index()
+        public TableNotesController(ITableNotesService service)
         {
-            return View();
+            _service = service;
         }
 
-        //[HttpGet]
-        //public string LoadedTableNotes()
-        //{
-        //    string loadedTable = 
-        //    //return list as Json    
-        //    return ;
-        //}
+        public IActionResult Index()
+        {
+            string jsonSave = _service.ReadJson();
+            TableNotes notes = JsonConvert.DeserializeObject<TableNotes>(jsonSave);
+            return View(notes);
+        }
+
+        [HttpPost]
+        public IActionResult Index(TableNotes newNotes)
+        {
+            string jsonString = JsonConvert.SerializeObject(newNotes);
+            _service.WriteJson(jsonString);
+            return View(newNotes);
+        }
     }
 }

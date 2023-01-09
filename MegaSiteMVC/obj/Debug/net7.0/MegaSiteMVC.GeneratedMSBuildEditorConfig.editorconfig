@@ -9,109 +9,105 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MegaSiteMVC
 build_property.RootNamespace = MegaSiteMVC
-build_property.ProjectDir = D:\Google Drive\ITMO\3 semester\Web\Лабы\AspNet\MegaSiteMVC\Sozdavatel-site\MegaSiteMVC\
+build_property.ProjectDir = E:\Google Drive\ITMO\3 semester\Web\Лабы\AspNet\MegaSiteMVC\Sozdavatel-site\MegaSiteMVC\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Google Drive\ITMO\3 semester\Web\Лабы\AspNet\MegaSiteMVC\Sozdavatel-site\MegaSiteMVC
+build_property.MSBuildProjectDirectory = E:\Google Drive\ITMO\3 semester\Web\Лабы\AspNet\MegaSiteMVC\Sozdavatel-site\MegaSiteMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Account/AccessDenied.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Account/Login.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Account/Register.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Account/RegisterCompleted.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Account/RegisterCompleted.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3RlckNvbXBsZXRlZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Account/Users.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Account/Users.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxVc2Vycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Home/Index.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Home/Privacy.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Orders/Index.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Orders/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Orders/OrderCompleted.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Orders/OrderCompleted.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXE9yZGVyQ29tcGxldGVkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Orders/ShoppingCart.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Orders/ShoppingCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXFNob3BwaW5nQ2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Products/Create.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Products/Delete.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Products/Details.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Products/Edit.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Products/Index.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Shared/Components/ShoppingCartSummary/Default.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Shared/Components/ShoppingCartSummary/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2hvcHBpbmdDYXJ0U3VtbWFyeVxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Shared/Error.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Shared/NotFound.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Shared/NotFound.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5vdEZvdW5kLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Shared/_Identity.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Shared/_Identity.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9JZGVudGl0eS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/TableNotes/Index.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/TableNotes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVOb3Rlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/TableNotes/LoadedTableNotes.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVOb3Rlc1xMb2FkZWRUYWJsZU5vdGVzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/_ViewImports.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/_ViewStart.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Shared/_Layout.cshtml]
+[E:/Google Drive/ITMO/3 semester/Web/Лабы/AspNet/MegaSiteMVC/Sozdavatel-site/MegaSiteMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-epgwpn2jm7

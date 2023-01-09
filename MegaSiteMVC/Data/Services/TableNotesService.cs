@@ -1,20 +1,41 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using MegaSiteMVC.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace MegaSiteMVC.Data.Services
 {
-    //public class TableNotesService : ITableNotesService
-    //{
-    //    private readonly AppDbContext _context;
+    public class TableNotesService : ITableNotesService
+    {
+        public string ReadJson()
+        {
+            string root = "wwwroot/data";
+            string fileName = "TableNote.json";
+            var path = Path.Combine(
+            Directory.GetCurrentDirectory(),
+            root,
+            fileName);
 
-    //    //public async Task<string> GetNotesByUserIdAsync(string userId)
-    //    //{
-    //    //    var result = await _context.TablesNotes.FirstOrDefaultAsync(x => x.UserId == userId);
-    //    //    return result.JsonNotes;
-    //    //}
+            string jsonResult;
 
-    //    //public Task SaveNotesAsync(string notes)
-    //    //{
-    //    //    throw new NotImplementedException();
-    //    //}
-    //}
+            using (StreamReader streamReader = new StreamReader(path))
+            {
+                jsonResult = streamReader.ReadToEnd();
+            }
+            return jsonResult;
+        }
+
+        public void WriteJson(string jsonString)
+        {
+            string root = "wwwroot/data";
+            string fileName = "TableNote.json";
+            var path = Path.Combine(
+            Directory.GetCurrentDirectory(),
+            root,
+            fileName);
+
+            using (var streamWriter = File.CreateText(path))
+            {
+                streamWriter.Write(jsonString);
+            }
+        }
+    }
 }

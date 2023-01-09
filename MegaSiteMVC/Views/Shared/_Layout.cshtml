@@ -27,12 +27,10 @@
             <ul>
                 <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                 <li><a asp-area="" asp-controller="Products" asp-action="Index">Shop</a>
-                <li><a asp-area="" asp-controller="Home" asp-action="TableNotes">Note table</a>
+                <li><a asp-area="" asp-controller="TableNotes" asp-action="Index">Note table</a>
                 <li><a href="#4">Contact</a>
-                <li><a href="#5">Search</a>
-                <li><a href="#6">Cart</a>
-                <li><a href="#7">Profile</a>
-                <li><a href="#7">Likes</a>
+                <li><a asp-controller="Orders" asp-action="ShoppingCart">Cart</a>
+                <li><a asp-controller="Orders" asp-action="Index">Profile</a>
             </ul>
         </div>
         <div class="header__main">
@@ -48,7 +46,7 @@
         <ul class="navbar">
             <li><a asp-area="" asp-controller="Home" asp-action="Index" class="navbar__item">Home</a></li>
             <li><a asp-area="" asp-controller="Products" asp-action="Index" class="navbar__item">Shop</a></li>
-            <li><a asp-area="" asp-controller="Home" asp-action="TableNotes" class="navbar__item">Note table</a></li>
+            <li><a asp-area="" asp-controller="TableNotes" asp-action="Index" class="navbar__item">Note table</a></li>
             <li><a href="#links" class="navbar__item">Contact</a></li>
         </ul>
     </header>
@@ -67,7 +65,6 @@
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

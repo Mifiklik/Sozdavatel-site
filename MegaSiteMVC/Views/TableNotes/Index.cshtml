@@ -1,5 +1,8 @@
-﻿@{
+﻿@model TableNotes
+
+@{
     ViewData["Title"] = "Table notes";
+    List<Note> notes = Model.Notes;
 }
 
 @if (!User.Identity.IsAuthenticated)
@@ -8,28 +11,63 @@
 }
 
 <div class="tools">
-    @if (User.Identity.IsAuthenticated)
-    {
-        <button onclick="SaveTable()" class="black__button tool" id="saveTableButton">Save notes</button>
-    }
-
     <button onclick="TryCreateTable()" class="black__button tool" id="createTableButton">Creat table</button>
     <button onclick="AddRow()" class="black__button tool" id="addRowButton">Add row</button>
     <button onclick="RemoveRow()" class="black__button tool" id="removeRowButton">Remove row №</button>
     <input class="number__input tool" type="text" name="lineIndex" id="lineIndex">
-
-
 </div>
 
-@Html.Partial("LoadedTableNotes");
-@*<div id="tableContainer">
-    Здесь будет таблица
-</div>*@
-<input type="hidden" name="SavedNotes" />
-<br />
+<form asp-action="Index"
+      style="display: flex; flex-wrap: wrap;align-items: center;flex-direction: column;">
+    @if (User.Identity.IsAuthenticated)
+    {
+        <button class="black__button tool" id="saveTableButton" type="submit">
+            Save notes
+        </button>
+    }
+    <br />
+    <div id="tableContainer">
+        @if (notes == null)
+        {
+            @*Здесь будет таблица*@
+        }
+        else
+        {
+
+            <table class="tableNotes" id="tableNotes">
+                <tbody>
+                    <tr>
+                        <td class="headCell" style="width:5%">№</td>
+                        <td class="headCell" style="width:5%">Id</td>
+                        <td class="headCell" style="width:10%">Date</td>
+                        <td class="headCell" style="width:80%">Note</td>
+                    </tr>
+                    @for (int i = 0; i < notes.Count; i++)
+                    {
+                        <tr>
+                            <td class="numberCell mainCell" style="border-bottom: solid 1px #C4C4C4;">
+                                @(i + 1)
+                            </td>
+                            <td class="mainCell">
+                                <input class="noteId" asp-for="Notes[i].Id" disabled>
+                            </td>
+                            <td class="mainCell">
+                                <input class="noteDate" asp-for="Notes[i].Date" disabled>
+                            </td>
+                            <td class="mainCell">
+                                <textarea class="noteText" placeholder="Type, paste, cut text here..." asp-for="Notes[i].NoteText">
+                                            </textarea>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+
+    </div>
+</form>
 
 @section Scripts
     {
     <script src="/js/tableNotes.js"></script>
-    <script type="text/javascript" src="https://ajax.cdnjs.com/ajax/libs/json2/20110223/json2.js"></script>
     }
