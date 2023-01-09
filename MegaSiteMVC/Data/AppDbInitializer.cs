@@ -21,12 +21,62 @@ namespace MegaSiteMVC.Data
 					{
 						new Product
 						{
-							ImageURL = "/images/Error.png",
-							Name = "John Doe",
-							Description = "Unknown persone",
-							Price = 1000000
-						}
-					});
+							ImageURL = "/images/Axe.png",
+							Name = "EMI Axe",
+							Description = "Best weapon against robots",
+
+                            Price = 800
+						},
+                        new Product
+                        {
+                            ImageURL = "/images/EMI_grenade.png",
+                            Name = "EMI grenade",
+                            Description = "If you have a robot in front of you and you haven't got a gun or other weapon, this grenade will help you.",
+                            Price = 500
+                        },
+                        new Product
+                        {
+                            ImageURL = "/images/Crusher.png",
+                            Name = "Crusher",
+                            Description = "Legendary gun and the best weapon",
+                            Price = 1000
+                        },
+                        new Product
+                        {
+                            ImageURL = "/images/Wife2.png",
+                            Name = "Wife",
+                            Description = "Wife of main hero",
+                            Price = 500
+                        },
+                        new Product
+                        {
+                            ImageURL = "/images/Cleaner.png",
+                            Name = "Cleaner",
+                            Description = "Tipical enamy",
+                            Price = 600
+                        },
+                        new Product
+                        {
+                            ImageURL = "/images/Icarus.png",
+                            Name = "Icarus",
+                            Description = "Main hero",
+                            Price = 500
+                        },
+                        new Product
+                        {
+                            ImageURL = "/images/AP-050.png",
+                            Name = "AP-050",
+                            Description = "Robot",
+                            Price = 800
+                        },
+                        new Product
+                        {
+                            ImageURL = "/images/Frenk.png",
+                            Name = "Frenk",
+                            Description = "Freind of main hero",
+                            Price = 500
+                        }
+                    });
 					context.SaveChanges();
 				}
 			}
@@ -64,14 +114,14 @@ namespace MegaSiteMVC.Data
                 }
 
 
-                string appUserEmail = "loginov@itmo.ru";
+                string appUserEmail = "user@sozdavatel.com";
 
                 var appUser = await userManager.FindByEmailAsync(appUserEmail);
                 if (appUser == null)
                 {
                     var newAppUser = new ApplicationUser()
                     {
-                        FullName = "Логинов Иван Павлович",
+                        FullName = "John Doe",
                         UserName = "thebest",
                         Email = appUserEmail,
                         EmailConfirmed = true
